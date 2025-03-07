@@ -1,8 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jake Sills",
+	"description": "Learning how to use NPM and node.js",
+	"keywords": ["learning", "exploring", "freecodecamp"],
+	"license": "MIT",
+	"version": "22.14.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		
+    "express": "^4.14.0"
+		
 	},
 	"main": "server.js",
 	"scripts": {
