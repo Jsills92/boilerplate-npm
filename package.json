@@ -1,6 +1,6 @@
 {
-	"name": "Jake Sills",
-	"Author": "Jake Sills",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Jake Sills",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
